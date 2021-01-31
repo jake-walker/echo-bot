@@ -19,7 +19,7 @@ pipenv run python main.py
 ### Commands
 
 | Command | Description |
-| --- | --- | --- |
+| --- | --- |
 | `!ping` | Sends back a pong message. Pass an optional message for the bot to respond with it. |
 | `!dice` | Roll a 6-sided dice. Pass an optional number for a different sided dice (e.g. `!dice 12`) |
 | `!disconnect` | Make the bot gracefully disconnect from the server. |
